@@ -12,5 +12,7 @@ code {
     monospace;
 }
 body {
-  background-image: url("https://picsum.photos/1920/1080");
+  background-image: url(https://wallpapers.com/images/hd/empty-scenic-sea-mt09hm47ovp23836.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
